@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Rukaiya51/Text-Utils/static/css/main.1d2e2bf5.css",
+    "main.js": "/Rukaiya51/Text-Utils/static/js/main.6192700c.js",
+    "static/js/453.ed3810f9.chunk.js": "/Rukaiya51/Text-Utils/static/js/453.ed3810f9.chunk.js",
+    "index.html": "/Rukaiya51/Text-Utils/index.html",
+    "main.1d2e2bf5.css.map": "/Rukaiya51/Text-Utils/static/css/main.1d2e2bf5.css.map",
+    "main.6192700c.js.map": "/Rukaiya51/Text-Utils/static/js/main.6192700c.js.map",
+    "453.ed3810f9.chunk.js.map": "/Rukaiya51/Text-Utils/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1d2e2bf5.css",
+    "static/js/main.6192700c.js"
+  ]
+}
